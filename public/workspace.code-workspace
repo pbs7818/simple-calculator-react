@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\test\\node_modules"
+		},
+		{
+			"path": "..\\..\\test\\public"
+		},
+		{
+			"path": "..\\..\\test\\src"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
